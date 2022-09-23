@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Nox154/Sass</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/issues</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/pulls</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/actions</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/projects?query=is%3Aopen</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/security</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/commit/c72204a1d235244db51120083fe42cc894b82daa</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/blob/main/index.html</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/blob/main/package-lock.json</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/blob/main/package.json</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/blob/main/wireframe.pdf</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/releases</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/compare</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/security/policy</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/security/advisories</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/blob/c72204a1d235244db51120083fe42cc894b82daa/index.html</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/find/main</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/blob/c72204a1d235244db51120083fe42cc894b82daa/package-lock.json</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/blob/c72204a1d235244db51120083fe42cc894b82daa/package.json</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels?sort=name-asc</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels?sort=name-desc</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels?sort=count-desc</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels?sort=count-asc</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels/bug</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels/documentation</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels/duplicate</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels/enhancement</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels/good%20first%20issue</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels/help%20wanted</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels/invalid</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels/question</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/labels/wontfix</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?state=open</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?state=closed</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/security/advisories?state=published</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/find/c72204a1d235244db51120083fe42cc894b82daa</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Nox154/Sass/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-09-22T23:47:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
